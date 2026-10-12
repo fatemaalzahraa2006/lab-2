@@ -1,0 +1,23 @@
+body {
+
+    text-align: center ;
+}
+p {color: black ;}
+
+.y
+{color: black ;
+border: 2px solid black;
+
+}
+
+.z 
+h2
+{background-color: black ;
+color: white ;}
+
+.section-div{
+display: flex ;
+flex-direction: row ;
+margin: 10px ;
+justify-content: center ;
+}
